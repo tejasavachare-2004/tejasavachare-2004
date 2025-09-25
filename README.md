@@ -1,7 +1,7 @@
 :
 
 👋 Hi, I'm Tejas
-🎓 Second-year Engineering Student | 💻 Tech Enthusiast
+🎓  Engineering Student | 💻 Tech Enthusiast
 🚀 Currently exploring: NLP, ANN, and Android App Development
 🛠️ Building cool stuff with Kotlin, Python, and TensorFlow
 📚 Learning Data Structures and Algorithms one problem at a time
